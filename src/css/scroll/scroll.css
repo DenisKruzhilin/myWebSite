@@ -1,0 +1,4 @@
+.scroll-header{
+    background-color: var(--body-color);
+    transition: .8s;
+}

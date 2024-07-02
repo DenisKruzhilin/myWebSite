@@ -1,0 +1,50 @@
+.home__img {
+    width: 450px;
+    position: absolute;
+    top: -16rem;
+    right: -1.5rem;
+}
+
+.home__data {
+    padding-top: 5rem;
+}
+
+.home__header{
+    position: relative;
+}
+
+.home__title {
+    width: 200%;
+    position: relative;
+    text-align: center;
+    line-height: 6rem;
+    font-size: var(--biggest-font-size);
+    background: var(--text-gradient);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.home__subtitle{
+    width: 200%;
+    font-size: var(--big-font-size);
+    margin-bottom: var(--mb-2-5);
+}
+
+.home__title-description{
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    margin-bottom: var(--mb-1);
+}
+
+.home__description{
+    margin-bottom: var(--mb-2-5);
+    line-height: var(--text-line-height);
+    position: relative;
+}
+
+.home__price{
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-semi-bold);
+    margin-left: var(--mb-0-75);
+}

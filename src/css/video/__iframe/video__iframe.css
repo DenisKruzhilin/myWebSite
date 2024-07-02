@@ -1,0 +1,17 @@
+.video__iframe {
+    margin-top: -2rem;
+    width: 17rem;
+    height:15rem;
+    border-radius: 5%;
+    padding: 0;
+    transition: 0.7s ease-in-out;
+}
+
+.video__iframe:not(:last-child){
+    margin-right: 30px;
+}
+
+.video__iframe:hover {
+    transform: scale(1.02);
+    overflow: hidden;
+}
