@@ -1,0 +1,1 @@
+{"uuid":"33d77f6e-00c2-43e9-8a3f-6289fc09dd9e","name":"TestLinkConfidentialityPolicy","children":["44dcc7e1-baca-4c41-bf10-8d0ad6525d60"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719248841435,"stop":1719248841473}],"afters":[],"start":1719248841350,"stop":1719248931320}

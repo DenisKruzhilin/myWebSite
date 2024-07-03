@@ -1,0 +1,22 @@
+{
+  "b0603d8eb738bde3589599d93bcd2897" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8ac63fcd9b73822",
+      "status" : "broken",
+      "statusDetails" : "javascript error: {\"status\":32,\"value\":\"An invalid or illegal selector was specified\"}\n  (Session info: chrome=125.0.6422.141)\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.7.5', java.version: '21.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [b8cf048f432dee87856349e5e4223f7b, findElement {value=id=text, using=css selector}]\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 125.0.6422.141, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: /var/folders/2k/cpfw96x54rq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61705}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61705/devtoo..., se:cdpVersion: 125.0.6422.141, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: b8cf048f432dee87856349e5e4223f7b\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.7.5', java.version: '21.0.2'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1717610188780,
+        "stop" : 1717610196361,
+        "duration" : 7581
+      }
+    } ]
+  }
+}

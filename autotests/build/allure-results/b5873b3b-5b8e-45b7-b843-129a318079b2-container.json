@@ -1,0 +1,1 @@
+{"uuid":"b5873b3b-5b8e-45b7-b843-129a318079b2","name":"TestDiscount","children":["e98b030d-848e-48b5-80ba-86c64121bd6f"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719173737015,"stop":1719173737047}],"afters":[],"start":1719173736957,"stop":1719173805036}

@@ -1,0 +1,1 @@
+{"uuid":"0b6b0575-7579-40f7-9afc-02600d4e0486","name":"TestLinkTechnicalSupport","children":["415c3eb0-ceb6-480f-bea5-78d23e18ce61"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719253584422,"stop":1719253584468}],"afters":[],"start":1719253584303,"stop":1719253653845}

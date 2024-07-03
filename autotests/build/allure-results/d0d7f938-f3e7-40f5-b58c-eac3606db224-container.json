@@ -1,0 +1,1 @@
+{"uuid":"d0d7f938-f3e7-40f5-b58c-eac3606db224","name":"TestLinkTradeInProgram","children":["7c8078bf-e3d4-4654-9815-01494164a6e5"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719249579926,"stop":1719249579985}],"afters":[],"start":1719249579846,"stop":1719249672792}

@@ -1,0 +1,29 @@
+<html><head>
+<title>Анкета соискателя</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h2>Анкета соискателя</h2>
+<form action="input.php" method="POST">
+<p>Введите имя:<br> 
+<input type="text" name="firstname"></p>
+<p>Форма работы: <br> 
+<input type="radio" name="eduform" id="office" value="в офисе">в офисе <br>
+<input type="radio" name="eduform" id="remote" value="удалённо">удалённо </p>
+<p>Готовы к командировкам:<br>
+<input type="checkbox" name="hostel">Да</p>
+<p>Ваши специальности: <br>
+<select name="courses[]" size="5" multiple="multiple">
+    <option id="mt" value="Ручной тестировщик">Ручной тестировщик</option>
+    <option id="td" value="Тест-дизайнер">Тест-дизайнер</option>    
+    <option id="at" value="Разработчик авто-тестов">Разработчик авто-тестов</option>
+    <option id="pt" value="Специалист по нагрузочному тестированию">Специалист по нагрузочному тестированию</option>
+    <option id="testlead" value="Руководитель команды тестирования">Руководитель команды тестирования</option>
+</select></p>
+<p>Краткий комментарий: <br>
+<textarea name="comment" maxlength="200"></textarea></p>
+<input type="submit" value="Отправить">
+</form>
+
+
+</body></html>

@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestOne",
+    "children" : [ {
+      "name" : "yandexTest",
+      "uid" : "a8ac63fcd9b73822",
+      "parentUid" : "8c3e8b1e299b2fec2926cb2e45cf7748",
+      "status" : "broken",
+      "time" : {
+        "start" : 1717610188780,
+        "stop" : 1717610196361,
+        "duration" : 7581
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8c3e8b1e299b2fec2926cb2e45cf7748"
+  } ]
+}

@@ -1,0 +1,1 @@
+{"uuid":"f5142f27-1f20-49fd-b66b-d9b751ae8722","name":"TestLinkAppleMac","children":["3b3aa3ec-9303-4ced-a7ce-5b174d8820e7"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719210349393,"stop":1719210349423}],"afters":[],"start":1719210349341,"stop":1719210429655}

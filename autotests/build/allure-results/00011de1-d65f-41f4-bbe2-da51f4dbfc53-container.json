@@ -1,0 +1,1 @@
+{"uuid":"00011de1-d65f-41f4-bbe2-da51f4dbfc53","name":"TestLinkIPad","children":["62db6a00-3fb4-4774-8b42-615563fd19dc"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719209562083,"stop":1719209562106}],"afters":[],"start":1719209562024,"stop":1719209641805}

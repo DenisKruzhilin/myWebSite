@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLinksShoppingСart" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-27T17:30:38" hostname="MacBook-Air-Denis.local" time="39.508">
+  <properties/>
+  <testcase name="ShoppingCartLink" classname="TestLinksShoppingСart" time="39.508"/>
+  <system-out><![CDATA[?[31mProduct - Товар добавлен в корзину: FAIL
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /Users/denis_k92/Desktop/progect_top/-ourse__project/tests/autotests/build/downloads/1719509438638_27696_1
+июн. 27, 2024 8:30:47 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 126, returning the closest version; found: 125; Please update to a Selenium version that supports CDP version 126
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=126.0.6478.115 Platform=mac
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 7.3.2
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.21.0 build revision: 79ed462ef4
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: ChromeDriver -> ChromeDriver: chrome on mac (644c38620965cec915aa78b16debde83), downloadsFolder: /Users/denis_k92/Desktop/progect_top/-ourse__project/tests/autotests/build/downloads/1719509438638_27696_1
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig, webDriver=ChromeDriver: chrome on mac (644c38620965cec915aa78b16debde83), proxy=null, downloadsFolder=/Users/denis_k92/Desktop/progect_top/-ourse__project/tests/autotests/build/downloads/1719509438638_27696_1] in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 1 [size=1]
+]]></system-err>
+</testsuite>
